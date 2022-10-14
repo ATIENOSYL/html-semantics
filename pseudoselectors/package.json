@@ -1,0 +1,14 @@
+{
+  "name": "pseudoselectors",
+  "version": "1.0.0",
+  "description": "html pseudo element",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages-d dist"
+  },
+  "author": "Makokha Sylvia",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
